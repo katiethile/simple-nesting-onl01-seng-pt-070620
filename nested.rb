@@ -15,7 +15,7 @@ def hopper
      }
      programmer_hash[:grace_hopper]
   end
-  programmer_hash[:alan_kay]
+  programmer_hash[:alan_kay][:known_for]
   end
 end 
 
